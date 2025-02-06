@@ -1,4 +1,3 @@
-
 package com.juet;
 
 public class Pack1 {
